@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- netstandard2.1 + C# 9 to match Unity 6. Do not reference UnityEngine here. -->
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>9.0</LangVersion>
+    <RootNamespace>DeliverAnything.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
